@@ -3,7 +3,7 @@
 - https://park.itc.u-tokyo.ac.jp/tajika/class/kiso2/fourier1.pdf
 - https://gochikika.ntt.com/Visualization_and_EDA/auto_cross_corr.html
 
-フーリエ変換を考える前に自己相関関数というものについて考えます.名前の通り自分との相関を示す関数で今$x(t)$という関数について自己相関関数は
+フーリエ変換を考える前に自己相関関数というものについて考えます.名前の通り自分との相関を示す関数で今 $x(t)$ という関数について自己相関関数は
 
 $$
 C(t, \tau) = E[x(t)x(t+\tau)]
