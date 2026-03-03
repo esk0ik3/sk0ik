@@ -72,6 +72,7 @@ $$
 $$
 
 とも書けます.上式の右辺はフーリエ変換のような形をしており中身の複素共役を考えることで$e^{i\omega t} \rightarrow e^{-i\omega t}$とできるのでちゃんとフーリエ変換の形にできます.つまり
+
 $$
 \begin{aligned}
     \int _ {-\infty} ^ {\infty} x(t) e^{i\omega t} dt
